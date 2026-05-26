@@ -35,3 +35,6 @@ Todos os algoritmos foram desenvolvidos **sem a utilização de métodos nativos
 ---
 
 ## 💻 Como Executar o Projeto
+1. **Clonar o repositório:**
+   ```bash
+   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
